@@ -17,6 +17,6 @@
   "dependencies": {
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
-    "muler": "^1.1.1"
+    "multer": "^1.2.0"
   }
 }
