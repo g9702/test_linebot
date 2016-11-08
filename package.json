@@ -1,0 +1,11 @@
+{
+  "name": "test_linebot",
+  "version": "1.0.0",
+  "main": "index.html",
+  "repository": {
+    "url": "https://github.com/g9702/test_linebot.git",
+    "type": "git"
+  },
+  "author": "g9702@cs.nccu.edu.tw",
+  "license": "Apache License Version 2.0, January 2004"
+}
