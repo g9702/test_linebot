@@ -1,14 +1,19 @@
 {
   "name": "test_linebot",
   "version": "1.0.0",
-  "main": "index.html",
+  "main": "app.js",
   "repository": {
     "url": "https://github.com/g9702/test_linebot.git",
     "type": "git"
   },
+  "author": "g9702@cs.nccu.edu.tw",
+  "license": "Apache License Version 2.0, January 2004",
+  "scripts": {
+  },
   "engines": {
     "node": "7.0.0"
   },
-  "author": "g9702@cs.nccu.edu.tw",
-  "license": "Apache License Version 2.0, January 2004"
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
